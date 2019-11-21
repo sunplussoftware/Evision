@@ -1,0 +1,2 @@
+# Evision
+application is set of android based application that can be installed in Any android smart phone Thelieus is a multifunctional and multilingual application suite comprising aroundtio sixty applications in different areas besides Telecommunication, which converts any android operating system based smart phone to a visually impaired friendly assistive device.Thelieus is a multifunctional and multilingual this are two types of operation are prefomed
